@@ -1,0 +1,2 @@
+# mavi-tikler
+Dogrulama alma 
